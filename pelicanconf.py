@@ -16,7 +16,7 @@ DEFAULT_LANG = u'en'
 
 THEME = '/Users/shahidhn/Documents/Website/pelicanyan/'
 TWITTER_ACCOUNT = 'shahidnowshad'
-RECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
