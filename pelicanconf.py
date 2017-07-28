@@ -20,7 +20,8 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'ro
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
-#STATIC_PATHS = ['images', 'favicon.ico']
+STATIC_PATHS = ['images', 'favicon.ico']
+DATE_FORMATS = { 'en': '%B %d, %Y', }
 # note: this assumes your blog's article images are located in content/images/ and your favicon.ico is located in content/
 
 
