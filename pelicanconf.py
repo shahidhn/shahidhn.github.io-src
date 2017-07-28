@@ -12,6 +12,18 @@ TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = u'en'
 
+# Edits July 27 2017
+
+THEME = '/Users/shahidhn/Documents/Website/pelicanyan/'
+TWITTER_ACCOUNT = 'shahidnowshad'
+RECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
+ROBOTS_SAVE_AS = 'robots.txt'
+HUMANS_SAVE_AS = 'humans.txt'
+SITEMAP_SAVE_AS = 'sitemap.xml'
+#STATIC_PATHS = ['images', 'favicon.ico']
+# note: this assumes your blog's article images are located in content/images/ and your favicon.ico is located in content/
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
