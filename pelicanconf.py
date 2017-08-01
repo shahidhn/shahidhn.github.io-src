@@ -6,7 +6,7 @@ AUTHOR = 'Shahid Hussain Nowshad'
 SITENAME = "Shahid's site"
 SITEURL = ''
 
-PATH = 'content'
+PATH = '/Users/shahidhn/Documents/Website/shahidhn.github.io-src'
 
 TIMEZONE = 'America/Chicago'
 
@@ -25,6 +25,7 @@ DATE_FORMATS = { 'en': '%B %d, %Y', }
 # note: this assumes your blog's article images are located in content/images/ and your favicon.ico is located in content/
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_DATE = 'fs'
+INDEX_SAVE_AS = 'blog_index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
