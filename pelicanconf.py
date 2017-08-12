@@ -27,6 +27,7 @@ DISPLAY_PAGES_ON_MENU = True
 DEFAULT_DATE = 'fs'
 INDEX_SAVE_AS = 'blog_index.html'
 SITESUBTITLE = ''
+GA_ACCOUNT = 'UA-104461239-1'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
