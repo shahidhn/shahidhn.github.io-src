@@ -43,6 +43,7 @@ LINKS = (
 #        ('Jinja2', 'http://jinja.pocoo.org/'),
          ('Blog', 'blog_index.html'),
          ('Projects', 'projects.html'),
+         ('Interests', 'interests.html'),
 #        ('You can modify those links in your config file', '#'),
 	)
 
