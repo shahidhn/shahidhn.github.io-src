@@ -11,7 +11,7 @@ My current interests are machine learning, startups and entrepreneurship, religi
 
 - [UT Austin](https://www.utexas.edu/) - *B.S.E.E., Electrical & Computer Engineering*
 
-- [Contrary Capital](https://www.utexas.edu/) - *Investor*</br>
+- [Contrary Capital](https://www.utexas.edu/) - *Venture Partner*</br>
 We want to support university entrepreneurship by investing in startups founded by students and faculty at UT Austin. We're also active at 54 other campuses across the US.
 
 - [Longhorn Entrepreneurship Agency](http://utlea.org/) - *Agent*</br>
