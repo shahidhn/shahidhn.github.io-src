@@ -1,7 +1,7 @@
 Title: Shahid
 save_as: index.html
 
-Hey, I'm Shahid! I'm a junior-year computer engineering student at The University of Texas at Austin, and a proud Dell EMC alum.
+Hey, I'm Shahid! I'm a junior-year computer engineering student at The University of Texas at Austin, a Venture Partner with Contrary Capital, and a proud Dell EMC alum.
 
 My current interests are machine learning, startups and entrepreneurship, religion, and blues music. I love hiking and backpacking, and (try to) play guitar on occasion.
 
