@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Shahid Hussain Nowshad'
 SITENAME = "shahid hussain nowshad"
-SITEURL = ''
+SITEURL = 'http://shahidhn.com'
 
 PATH = '/Users/shahidhn/Documents/Website/shahidhn.github.io-src'
 
@@ -40,7 +40,7 @@ LINKS = (
 #  	 ('Pelican', 'http://getpelican.com/'),
 #        ('Python.org', 'http://python.org/'),
 #        ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('currently enjoying', 'interests.html'),
+         ('interests', 'interests.html'),
          ('projects', 'projects.html'),
          ('blog', 'blog_index.html'),
 #        ('You can modify those links in your config file', '#'),
