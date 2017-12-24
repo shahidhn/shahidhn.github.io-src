@@ -18,7 +18,8 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'ro
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
-STATIC_PATHS = ['images', 'favicon.ico', 'downloads']
+STATIC_PATHS = ['images', 'extra/favicon.ico', 'downloads']
+EXTRA_PATH_METADATA = {'extra/favicon.ico' : {'path': 'favicon.ico'}}
 DATE_FORMATS = { 'en': '%B %d, %Y', }
 # note: this assumes your blog's article images are located in content/images/ and your favicon.ico is located in content/
 # DISPLAY_PAGES_ON_MENU = True
