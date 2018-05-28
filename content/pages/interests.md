@@ -1,5 +1,5 @@
-Title: Interests
-save_as: interests.html
+Title: Recommendations
+save_as: recommendations.html
 
 Whatever I've read or listened to that has been of especially great value to my life.
 
@@ -14,7 +14,7 @@ Whatever I've read or listened to that has been of especially great value to my 
 * [The Case for God](https://www.amazon.com/Case-God-Karen-Armstrong/dp/0307389804/) - Karen Armstrong  
 
 ### What I'm reading now
-* [God: A Human History](https://www.amazon.com/God-Human-History-Reza-Aslan/dp/055339472X/) - Reza Azlan
+* [Guns, Germs, and Steel: The Fates of Human Societies](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/) - Reza Azlan
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/) - Daniel Kahneman
 
 ## Podcasts
@@ -22,31 +22,31 @@ I'll highlight my all-time favorite episodes for some of these podcasts.
 
 ### Technology and entrepreneurship
 * [How I Built This](http://www.npr.org/podcasts/510313/how-i-built-this)
-	- [AirBnb](https://one.npr.org/?sharedMediaId=497820565:497945288)
-	- [Southwest Airlines](https://one.npr.org/?sharedMediaId=502344848:502624633)
+	- [AirBnb](https://one.npr.org/?sharedMediaId=497820565:497945288) </br>
+	The AirBnb founding story epitomizes the mantra of "do things that don't scale" - such a great story.
 * [a16z Podcast](https://a16z.com/podcasts/)
-	- [Revenge of the Algorithms (Over Data)... Go! No?](https://soundcloud.com/a16z/algorithms-data-reinforcementlearning-alphago)
 	- [From Jobs to Flying Cars](https://soundcloud.com/a16z/andreessen-primack-dc-tech-policy-summit-2017) (Interview with Marc Andreesen)
-* [Too Embarrassed to Ask](https://www.recode.net/too-embarrassed-to-ask-podcast)
+	- [The Case Against Education, From Signaling to Rainbow's End](https://a16z.com/2018/05/08/case-against-education-bryan-caplan/) (Interview with Bryan Caplan)
 * [Masters of Scale](https://mastersofscale.com/)
-	- [Peter Thiel: Escape the Competition](https://mastersofscale.com/peter-thiel-escape-the-competition/)
+	- [Peter Thiel: Escape the Competition](https://mastersofscale.com/peter-thiel-escape-the-competition/)</br>
+
 
 ### Life, philosophy, self-improvement
 * [The Knowledge Project](https://www.fs.blog/the-knowledge-project/)
 	- [Naval Ravikant: Reading, Happiness, Systems for Decision Making, Habits, Radical Honesty](https://www.fs.blog/2017/02/naval-ravikant-reading-decision-making/)</br>
 	I'm hoping to revisit this at least every year - tremendously sharp and insightful.
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
-	- [Astro Teller: How to Think 10x Bigger](https://tim.blog/2018/04/18/how-to-think-10x-bigger/)
-	- [The Man Who Taught Me How to Invest](https://tim.blog/2017/12/16/the-man-who-taught-me-how-to-invest/) (Mike Maples)
 	- [Terry Crews: How to Have, Do, and Be All You Want](https://tim.blog/2017/12/20/terry-crews-how-to-have-do-and-be-all-you-want/)
-	- [Ray Dalio, the Steve Jobs of Investing](https://tim.blog/2017/09/13/ray-dalio/)
-* [Conversations with Tyler](https://www.conversationswithtyler.com/)
-* [The Art of Manliness](https://www.artofmanliness.com/category/podcast/)
-	- [Skin in the Game](https://www.artofmanliness.com/articles/taleb-interview-skin-in-the-game/)
 
 ### Miscellaneous
+* [Conversations with Tyler](https://www.conversationswithtyler.com/)
 * [Freakonomics Radio](http://freakonomics.com/archive/)</br>
-* [Hidden Brain](http://www.npr.org/podcasts/510308/hidden-brain)</br>
+
+## Articles
+* [The Case Against Work-Life Balance: Owning Your Future](http://shyamsankar.com/the-case-against-work-life-balance-owning-your-future)
+* [Nassim Nicholas Taleb: Commencement Address, American University of Beirut](https://medium.com/@nntaleb/commencement-address-american-university-in-beirut-2016-a5c6d57984b)
+
+
 
 <!--
 ## Music

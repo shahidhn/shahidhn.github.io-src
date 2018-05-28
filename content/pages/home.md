@@ -2,7 +2,7 @@ Title: Shahid Hussain Nowshad
 Template: page_mod
 save_as: index.html
 
-Hey, I'm Shahid! I'm a junior-year computer engineering student at The University of Texas at Austin, a Venture Partner with Contrary Capital, and a proud Dell EMC alum.
+Hey, I'm Shahid! I'm a junior-year computer engineering student at The University of Texas at Austin, a Venture Partner with Contrary Capital, and a current Dell EMC intern.
 
 I believe that the overlap of technology and business carries the power to bring abundance to the world. I'm interested in machine learning and AI's impact on society; entrepreneurship, startups, and venture capital; and the history of religion and society.
 
@@ -12,6 +12,9 @@ I believe that the overlap of technology and business carries the power to bring
 
 - [UT Austin](https://www.utexas.edu/) - B.S.E.E., Electrical & Computer Engineering</br>
 *Aug 2015 -*
+
+- [Dell EMC](https://www.dellemc.com) - Software Engineering Intern</br>
+*May 2018 - Aug 2018*</br>
 
 - [Contrary Capital](https://contrarycap.com) - Venture Partner</br>
 *Aug 2016 -*</br>
