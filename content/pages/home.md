@@ -6,7 +6,7 @@ Hey, I'm Shahid! I'm a junior-year computer engineering student at The Universit
 
 I believe that the overlap of technology and business carries the power to bring abundance to the world. I'm interested in machine learning and AI's impact on society; entrepreneurship, startups, and venture capital; and the history of religion and society.
 
-[Here]({filename}/downloads/resume.pdf) is my resume. You can reach me at [shahidhn@utexas.edu](mailto:shahidhn@utexas.edu), or through the various links in the sidebar.
+**I'm on a lookout for full-time software engineering (systems and application layers) and machine learning positions starting June 2019!** [Here]({filename}/downloads/resume.pdf) is my resume. You can reach me at [shahidhn@utexas.edu](mailto:shahidhn@utexas.edu), or through the various links in the sidebar.
 
 ### Currently:
 
@@ -15,14 +15,15 @@ I believe that the overlap of technology and business carries the power to bring
 
 - [Dell EMC](https://www.dellemc.com) - Software Engineering Intern</br>
 *May 2018 - Aug 2018*</br>
+Extending [Kubernetes](https://kubernetes.io) functionality with dynamic bare-metal cluster expansion and contraction, based on workload-specific needs. 
 
 - [Contrary Capital](https://contrarycap.com) - Venture Partner</br>
 *Aug 2016 -*</br>
-Source potential deals and strengthen brand name on campus of Contrary Capital, a university-focused venture capital fund. Reach out to the UT Austin pod [here](mailto:longhorns@contrarycap.com).
+Source potential deals on campus for Contrary Capital, a university-focused venture capital fund. Reach out to the UT Austin pod [here](mailto:longhorns@contrarycap.com)!
 
 - [Longhorn Entrepreneurship Agency](http://utlea.org/) - Member</br>
 *Aug 2016 -*</br>
-Lead [CoLab](https://www.facebook.com/LEACOLAB) team, which manages UT Austin's first ever student-run co-working space on campus.
+LEA strives to make UT Austin the best campus in the world for entrepreneurship.
 
 ### Previously:
 

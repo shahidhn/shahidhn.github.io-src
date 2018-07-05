@@ -14,7 +14,8 @@ Whatever I've read or listened to that has been of especially great value to my 
 * [The Case for God](https://www.amazon.com/Case-God-Karen-Armstrong/dp/0307389804/) - Karen Armstrong  
 
 ### What I'm reading now
-* [Guns, Germs, and Steel: The Fates of Human Societies](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/) - Reza Azlan
+* [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/) - Yuval Noah Harari
+* [Guns, Germs, and Steel: The Fates of Human Societies](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326/) - Jared Diamond
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/) - Daniel Kahneman
 
 ## Podcasts
@@ -37,14 +38,16 @@ I'll highlight my all-time favorite episodes for some of these podcasts.
 	I'm hoping to revisit this at least every year - tremendously sharp and insightful.
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
 	- [Terry Crews: How to Have, Do, and Be All You Want](https://tim.blog/2017/12/20/terry-crews-how-to-have-do-and-be-all-you-want/)
+* [Conversations with Tyler](https://www.conversationswithtyler.com/)
+
 
 ### Miscellaneous
-* [Conversations with Tyler](https://www.conversationswithtyler.com/)
 * [Freakonomics Radio](http://freakonomics.com/archive/)</br>
 
 ## Articles
 * [The Case Against Work-Life Balance: Owning Your Future](http://shyamsankar.com/the-case-against-work-life-balance-owning-your-future)
 * [Nassim Nicholas Taleb: Commencement Address, American University of Beirut](https://medium.com/@nntaleb/commencement-address-american-university-in-beirut-2016-a5c6d57984b)
+</br>
 
 
 
