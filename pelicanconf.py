@@ -6,13 +6,13 @@ AUTHOR = 'Shahid Hussain Nowshad'
 SITENAME = "shahid hussain nowshad"
 SITEURL = 'http://shahidhn.com'
 
-PATH = '/Users/shahidhn/Documents/Website/shahidhn.github.io-src'
+PATH = '/Users/shahidhn/Website/shahidhn.github.io-src'
 
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
-THEME = '/Users/shahidhn/Documents/Website/pelicanyan/'
+THEME = '/Users/shahidhn/Website/pelicanyan/'
 # TWITTER_ACCOUNT = 'shahidnowshad'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
