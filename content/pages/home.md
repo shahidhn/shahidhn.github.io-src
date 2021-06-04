@@ -4,7 +4,7 @@ save_as: index.html
 
 Hey, I'm Shahid! I studied computer engineering at The University of Texas at Austin and graduated in 2019, and have since been working as a software engineer at [Arista Networks](https://www.arista.com), which builds cloud networking solutions for data centers. There, I'm on the software-defined networking team, where I work on VXLAN (extending Layer 2 virtual domains over an underlying Layer 3 physical network) overlays. I'm also part of the inaugural batch of the [Contrary Fellowship](https://contrarycap.com/fellowship), a diverse and selective community of early-career engineers, designers, and product minds.
 
-[Here]({filename}/downloads/resume.pdf) is my resume. You can reach me at [shahidh.nowshad@gmail.com](mailto:shahidh.nowshad@gmail.com), or through the various links in the sidebar.
+[Here]({filename}/downloads/resume.pdf) is my resume. You can reach me at [me@shahidhn.com](mailto:me@shahidhn.com), or through the various links in the sidebar.
 
 ### Previously:
 
